@@ -23,7 +23,7 @@ body {
 
     border: 5px solid rgb(76, 76, 76);
 
-    background-color: rgb(30, 30, 30);
+    background-image: url("./images/rua.jpg");
 }
 
 .block {
@@ -32,7 +32,7 @@ body {
 
     position: absolute;
 
-    background-color: red;
+    background-image: url("./images/cachorro-caramelo.png");
 }
 
 .fruit {
@@ -42,7 +42,7 @@ body {
     position: absolute;
     border-radius: 30px;
 
-    background-color: rgba(17, 248, 9, 0.849);
+    background-image: url("./images/carne.png");
 }
 
 .map {

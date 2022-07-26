@@ -62,3 +62,4 @@ GenerateMap();
 function getRandom(max) {
 	return Math.floor(Math.random() * (max / 50)) * 50;
 }
+
